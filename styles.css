@@ -1,0 +1,16 @@
+html {
+background-color: azure;
+}
+
+body {
+    margin:0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.main-header {
+    background-color: bisque;
+    padding: 30px;
+}
